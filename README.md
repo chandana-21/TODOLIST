@@ -1,2 +1,0 @@
-# Javascript TO-DO List
-
