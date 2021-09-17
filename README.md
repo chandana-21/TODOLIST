@@ -1,3 +1,2 @@
-# Javascript To-Do List
+# Javascript TO-DO List
 
-Link: https://chandana-21.github.io/TODOLIST
